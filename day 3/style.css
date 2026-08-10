@@ -1,4 +1,42 @@
 table {
     width: 90%;
-    height: 600p
+    height: 600px;
+    mergin: auto;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td {
+    border: 1px solid red;
+}
+
+.header {
+    background-color: lightgreen;
+    height: 80px;
+
+    font-size: 25px;
+    fornt-weight: bold;
+}
+
+.nav {
+    background-color: #ffd633;
+    height: 25%;
+
+}
+
+.notification {
+    background-color: antiquewhite;
+    width: 25%;
+}
+
+.form {
+    background-color: lightgreen;
+    height: 60px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+input {
+    padding: 8px;
+    margin: 5px;
 }
