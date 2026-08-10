@@ -1,19 +1,4 @@
-table,
-th,
-td {
-    border: 1px solid black;
-    border-collapse: collapse;
-    border-radius: 10px
+table {
+    width: 90%;
+    height: 600p
 }
-
-th,
-td {
-    background-color: aqua;
-    border: 1px solid black;
-    border-radius: 10px;
-    border-style: outset;
-}
-
-//The following values are allowed:
-
-dotted dashed solid double groove ridge inset outset none hidden
