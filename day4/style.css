@@ -21,6 +21,15 @@
 }
 
 div {
-    float: left;
+
     margin: 20px;
+    border: 2px solid red;
+}
+
+p {
+    background-color: aqua
+}
+
+h2 {
+    background-color: rgb(179, 122, 231)
 }
