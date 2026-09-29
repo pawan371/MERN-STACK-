@@ -1,21 +1,26 @@
 .a {
     background-color: aqua;
-    position: relative;
+
 
 }
 
 .b {
     background-color: rgb(247, 121, 121);
-    position: sticky;
+
 
 }
 
 .c {
     background-color: rgb(190, 127, 249);
-    position: sticky;
+
 }
 
 .d {
     background-color: yellow;
-    position: absolute
+
+}
+
+div {
+    float: left;
+    margin: 20px;
 }
