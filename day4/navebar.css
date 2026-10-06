@@ -1,0 +1,30 @@
+ body {
+     margin: 0%;
+     padding: 0%;
+ }
+
+ h1 {
+     background-color: blue;
+     color: white;
+     text-align: center;
+
+ }
+
+ ul {
+     background-color: rgb(250, 126, 126);
+     position: sticky;
+     top: 1%;
+ }
+
+ ul li {
+     background-color: lightgrey;
+     display: inline-block;
+     padding: 10px;
+     border-radius: 10px;
+
+ }
+
+ ul li:hover {
+     background-color: rgb(64, 244, 64);
+     color: beige;
+ }
